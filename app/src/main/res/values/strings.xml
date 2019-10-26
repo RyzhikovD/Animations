@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Animations</string>
+    <string name="frame_by_frame_animation">Frame-by-frame animation</string>
+    <string name="tween_animation">Tween animation</string>
+    <string name="value_animation">Value Animation</string>
+    <string name="object_animation">Object animation</string>
+    <string name="customView_animation">CustomView animation</string>
+    <string name="progress_template">%d %%</string>
+</resources>
